@@ -24,6 +24,13 @@
 
 **Keep the momentum going!**
 
+### 📚 Community Activities
+
+**Manga Maniacs**  
+Explore the fantastic stories of the most interesting characters from Japanese Manga (graphic novels).  
+**Schedule:** Tuesday at 5PM  
+**Max attendance:** 25 participants
+
 [![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Pthangavel/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
 [![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
@@ -34,4 +41,3 @@
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
